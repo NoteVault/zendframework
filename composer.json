@@ -1,5 +1,5 @@
 {
-    "name": "notevault/zendframework",
+    "name": "zendframework/zendframework",
     "description": "Zend Framework",
     "type": "metapackage",
     "keywords": [
